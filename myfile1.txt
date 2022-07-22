@@ -1,1 +1,2 @@
-adding to myfile1
+adding to myfile
+adding new from file
